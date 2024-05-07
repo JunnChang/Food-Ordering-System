@@ -1,0 +1,5 @@
+1,Ice Lemon Tea,3.30
+2,Teh O,3.30
+3,Limau Ice,3.50
+4,Coke,20.00
+5,Green Tea,5.00

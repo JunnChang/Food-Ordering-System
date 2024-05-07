@@ -1,0 +1,21 @@
+----------------------------------------------------------------
+		No plans All vibes Restaurant
+----------------------------------------------------------------
+		Multimedia University (MMU)
+	Only beautiful human are allowed in this restaurant
+		Mon Jun 05 13:30:49 2023
+
+----------------------------------------------------------------
+ITEM						QUANTITY	PRICE(RM)
+
+Wagyu Steak                   	    2		10.00
+Char Kuey Tiow                	    1		8.00
+Green Tea                     	    1		5.00
+
+
+						Subtotal: 	RM 23.00
+						Discount: 	RM 0.00
+						Total   : 	RM 23.00
+
+THANKS FOR VISITING!
+
